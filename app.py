@@ -43,7 +43,7 @@ def extract_transcript_details(youtube_video_URL):
 
 # Application
 
-st.title("YouTube Transcript to Detailed Notes Converter")
+st.title("YouTube Transcript to Detailed Notes Converter ")
 youtube_link = st.text_input("Enter YouTube Video Link:")
 
 
